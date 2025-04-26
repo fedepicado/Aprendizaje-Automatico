@@ -1,2 +1,4 @@
-# Aprendizaje-Automatico
-Especialización en Explotación de Datos y Descubrimiento del Conocimiento - UBA 2024
+# 📚 Aprendizaje Automático 
+
+Repositorio para almacenar y compartir los ejercicios y prácticas de la materia.
+
